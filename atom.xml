@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ArtByZuzu</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://artbyzuzu.com/"/>
+  <updated>2018-10-22T17:18:03.596Z</updated>
+  <id>http://artbyzuzu.com/</id>
+  
+  <author>
+    <name>Marianne Zuzunaga</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>P A T R O N F A M I L I A G R I S</title>
+    <link href="http://artbyzuzu.com/2018/10/22/patron-familia/"/>
+    <id>http://artbyzuzu.com/2018/10/22/patron-familia/</id>
+    <published>2018-10-22T17:18:03.596Z</published>
+    <updated>2018-10-22T17:18:03.596Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;div class=&quot;instagram-wrapper&quot;&gt;&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-version=&quot;7&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>P A T R O N F A M I L I A</title>
+    <link href="http://artbyzuzu.com/2018/10/22/patron-familia-gris/"/>
+    <id>http://artbyzuzu.com/2018/10/22/patron-familia-gris/</id>
+    <published>2018-10-22T17:18:03.592Z</published>
+    <updated>2018-10-22T17:18:03.592Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;div class=&quot;instagram-wrapper&quot;&gt;&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-version=&quot;7&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
